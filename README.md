@@ -3,15 +3,15 @@ Analyzed data for an independent gaming company's most recent game Heroes of Pym
 
 ## My report includes a detailed analysis regarding the following...
 
-### Total Number of Players,
+### Total Number of Players
 
-### Gender Demographics,
+### Gender Demographics
 
-### Purchasing Analysis based on Gender,
+### Purchasing Analysis based on Gender
 
-### Age Demographics,
+### Age Demographics
 
-### Purchasing Analysis based on Age, 
+### Purchasing Analysis based on Age
 
 ### Top Spenders
 
