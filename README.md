@@ -1,12 +1,12 @@
 # Pandas Challenege
 Analyzed data for an independent gaming company's most recent game Heroes of Pymoli. I produced a detailed report from the game's purchasing data into strategic insight.  
 
-### Player Count###
+## My report includes...
 
-### Total Number of Players
+Total Number of Players
 
 
-### Purchasing Analysis (Total)
+
 
 -Number of Unique Items
 -Average Purchase Price
