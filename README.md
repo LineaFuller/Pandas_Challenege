@@ -7,7 +7,7 @@ According to my findings...
 
 1. More than three-quarters of the active players are male and contribute the majority of the total purchase revenue. 
 2. The largest proportion of players are found within the age range of 20-24 and constitute 44% of the total amount of players. 
-3. Players within the 35-39 age range spend more than other age ranges indicated by the group's high purchase total. 
+3. Players within the 35-39 age range have the highest purchase total indicating that they spend the most compared to the rest of the age groups. 
 
 
 
